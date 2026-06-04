@@ -1,0 +1,9 @@
+[package]
+name = "strategy-transfer"
+version = "0.1.0"
+edition = "2021"
+description = "Testing whether ternary strategies transfer across domains"
+license = "MIT"
+repository = "https://github.com/SuperInstance/strategy-transfer"
+
+[dev-dependencies]
